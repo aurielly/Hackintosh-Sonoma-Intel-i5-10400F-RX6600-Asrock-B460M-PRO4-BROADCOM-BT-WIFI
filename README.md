@@ -25,5 +25,5 @@
 - USB ports 
 - Dual Boot (Windows + MacOS) 
 
-# Patch BT+Wifi Broadcom BCM43602
+# Patch BT+Wifi Broadcom BCM43602 for Sonoma
 Download Opencore Patcher: https://github.com/dortania/OpenCore-Legacy-Patcher/releases
