@@ -15,15 +15,15 @@
     - Handoff
     - iMessage
     - Air Drop
-- DisplayPort Output (4k resolution / 75hz)
+- DisplayPort Output (2k resolution 155Hz)
 - Sleep
 - Wake
-- Audio (select internal speakers)
+- Audio 
 - Ethernet
 - Bluetooth
 - WiFi
-- All USB ports (Full 3.0 + 2.0 + type C)
-- Dual Boot (Windows + MacOS) (NOTE: Install MacOS in second partition - after EFI partition)
+- USB ports 
+- Dual Boot (Windows + MacOS) 
 
 # Patch BT+Wifi Broadcom BCM43602
 Download Opencore Patcher: https://github.com/dortania/OpenCore-Legacy-Patcher/releases
