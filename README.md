@@ -1,0 +1,1 @@
+# Hackintosh-Sonoma-Intel-i5-10400F-RX6600-Asrock-B460M-PRO4-BROADCOM-BT-WIFI
