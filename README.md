@@ -15,7 +15,7 @@
     - Handoff
     - iMessage
     - Air Drop
-- DisplayPort Output (2k resolution 155Hz)
+- DisplayPort Output (2K resolution 155Hz)
 - Sleep
 - Wake
 - Audio 
