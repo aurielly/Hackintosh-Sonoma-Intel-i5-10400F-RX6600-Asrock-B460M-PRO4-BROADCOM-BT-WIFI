@@ -1,6 +1,5 @@
 
-# Ngôn ngữ: [English][[Vietnames]](README_VN.md)
-# BreadcrumbsHackintosh-Sonoma-Intel-i5-10400F-RX6600-Asrock-B460M-PRO4-BROADCOM-BT-WIFI (OpenCore 0.9.5)
+# Hackintosh-Sonoma-Intel-i5-10400F-RX6600-Asrock-B460M-PRO4-BROADCOM-BT-WIFI (OpenCore 0.9.5)
 
 # Info PC
 
