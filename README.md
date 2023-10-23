@@ -8,7 +8,7 @@
 - Ram: 24GB (2x8GB 2x4GB) **[Link](https://www.anphatpc.com.vn/ram-kingston-hyperx-fury-8gb-1x8gb-ddr4-bus-2666mhz-black.html)**
 - SSD: NVME WD Blue SN570 500GB
 - BT+Wifi card: Broadcom BCM43602 
-- GPU: AMD RX6600
+- GPU: Sapphire AMD RX6600
 
 # Works
 - Continuity:
