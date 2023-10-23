@@ -5,7 +5,7 @@
 
 - Main: Asrock B460M PRO4
 - CPU: Intel® Core™ i5-10400F
-- Ram: 24GB (2x8GB 2x4GB) **[Link](https://www.anphatpc.com.vn/ram-kingston-hyperx-fury-8gb-1x8gb-ddr4-bus-2666mhz-black.html)**
+- Ram: 24GB (2x8GB 2x4GB)
 - SSD: NVME WD Blue SN570 500GB
 - BT+Wifi card: Broadcom BCM43602 
 - GPU: Sapphire AMD RX6600 8GB
